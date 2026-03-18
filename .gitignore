@@ -1,0 +1,22 @@
+# данные и папки с данными
+models/
+features/
+datasets/
+
+# тяжелые/временные файлы
+*.zip
+*.tar.gz
+*.csv
+*.bin
+*.tsv
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
