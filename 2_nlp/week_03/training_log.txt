@@ -1,0 +1,72 @@
+2026-03-30 19:18:03.191103: Запуск lstm_L1_H32_ReLU
+Завершено: lstm_L1_H32_ReLU | Final PPL: 166.45
+2026-03-30 19:23:18.737748: Запуск lstm_L1_H64_ReLU
+Завершено: lstm_L1_H64_ReLU | Final PPL: 127.87
+2026-03-30 19:29:03.709834: Запуск lstm_L2_H32_ReLU
+Завершено: lstm_L2_H32_ReLU | Final PPL: 190.35
+2026-03-30 19:34:19.401981: Запуск lstm_L2_H64_ReLU
+Завершено: lstm_L2_H64_ReLU | Final PPL: 145.54
+2026-03-30 19:40:08.780280: Запуск lstm_L1_H32_Tanh
+Завершено: lstm_L1_H32_Tanh | Final PPL: 173.43
+2026-03-30 19:45:20.990067: Запуск lstm_L1_H64_Tanh
+Завершено: lstm_L1_H64_Tanh | Final PPL: 131.01
+2026-03-30 19:51:05.933307: Запуск lstm_L2_H32_Tanh
+Завершено: lstm_L2_H32_Tanh | Final PPL: 193.94
+2026-03-30 19:56:21.871236: Запуск lstm_L2_H64_Tanh
+Завершено: lstm_L2_H64_Tanh | Final PPL: 149.00
+2026-03-30 20:02:11.227162: Запуск lstm_L1_H32_Sigmoid
+Завершено: lstm_L1_H32_Sigmoid | Final PPL: 200.85
+2026-03-30 20:07:16.320273: Запуск lstm_L1_H64_Sigmoid
+Завершено: lstm_L1_H64_Sigmoid | Final PPL: 150.11
+2026-03-30 20:12:56.407727: Запуск lstm_L2_H32_Sigmoid
+Завершено: lstm_L2_H32_Sigmoid | Final PPL: 220.88
+2026-03-30 20:18:03.503148: Запуск lstm_L2_H64_Sigmoid
+Завершено: lstm_L2_H64_Sigmoid | Final PPL: 170.00
+2026-03-30 20:23:50.257184: Запуск gru_L1_H32_ReLU
+Завершено: gru_L1_H32_ReLU | Final PPL: 164.51
+2026-03-30 20:28:59.200345: Запуск gru_L1_H64_ReLU
+Завершено: gru_L1_H64_ReLU | Final PPL: 126.48
+2026-03-30 20:34:40.754032: Запуск gru_L2_H32_ReLU
+Завершено: gru_L2_H32_ReLU | Final PPL: 177.18
+2026-03-30 20:39:49.427038: Запуск gru_L2_H64_ReLU
+Завершено: gru_L2_H64_ReLU | Final PPL: 135.89
+2026-03-30 20:45:33.279932: Запуск gru_L1_H32_Tanh
+Завершено: gru_L1_H32_Tanh | Final PPL: 179.03
+2026-03-30 20:50:41.972536: Запуск gru_L1_H64_Tanh
+Завершено: gru_L1_H64_Tanh | Final PPL: 130.68
+2026-03-30 20:56:22.660913: Запуск gru_L2_H32_Tanh
+Завершено: gru_L2_H32_Tanh | Final PPL: 182.35
+2026-03-30 21:01:33.580813: Запуск gru_L2_H64_Tanh
+Завершено: gru_L2_H64_Tanh | Final PPL: 137.86
+2026-03-30 21:07:20.176428: Запуск gru_L1_H32_Sigmoid
+Завершено: gru_L1_H32_Sigmoid | Final PPL: 189.78
+2026-03-30 21:12:27.050786: Запуск gru_L1_H64_Sigmoid
+Завершено: gru_L1_H64_Sigmoid | Final PPL: 147.62
+2026-03-30 21:18:05.897408: Запуск gru_L2_H32_Sigmoid
+Завершено: gru_L2_H32_Sigmoid | Final PPL: 209.28
+2026-03-30 21:23:15.019832: Запуск gru_L2_H64_Sigmoid
+Завершено: gru_L2_H64_Sigmoid | Final PPL: 157.64
+2026-03-30 21:28:58.219926: Запуск rnn_L1_H32_ReLU
+Завершено: rnn_L1_H32_ReLU | Final PPL: 171.09
+2026-03-30 21:34:02.765098: Запуск rnn_L1_H64_ReLU
+Завершено: rnn_L1_H64_ReLU | Final PPL: 133.70
+2026-03-30 21:39:42.233276: Запуск rnn_L2_H32_ReLU
+Завершено: rnn_L2_H32_ReLU | Final PPL: 182.43
+2026-03-30 21:44:56.912013: Запуск rnn_L2_H64_ReLU
+Завершено: rnn_L2_H64_ReLU | Final PPL: 144.80
+2026-03-30 21:50:42.039875: Запуск rnn_L1_H32_Tanh
+Завершено: rnn_L1_H32_Tanh | Final PPL: 180.55
+2026-03-30 21:55:52.573021: Запуск rnn_L1_H64_Tanh
+Завершено: rnn_L1_H64_Tanh | Final PPL: 137.05
+2026-03-30 22:01:33.688451: Запуск rnn_L2_H32_Tanh
+Завершено: rnn_L2_H32_Tanh | Final PPL: 196.09
+2026-03-30 22:06:42.324796: Запуск rnn_L2_H64_Tanh
+Завершено: rnn_L2_H64_Tanh | Final PPL: 147.85
+2026-03-30 22:12:27.342490: Запуск rnn_L1_H32_Sigmoid
+Завершено: rnn_L1_H32_Sigmoid | Final PPL: 200.37
+2026-03-30 22:17:37.463272: Запуск rnn_L1_H64_Sigmoid
+Завершено: rnn_L1_H64_Sigmoid | Final PPL: 153.80
+2026-03-30 22:23:19.780217: Запуск rnn_L2_H32_Sigmoid
+Завершено: rnn_L2_H32_Sigmoid | Final PPL: 219.37
+2026-03-30 22:28:31.460237: Запуск rnn_L2_H64_Sigmoid
+Завершено: rnn_L2_H64_Sigmoid | Final PPL: 163.12
